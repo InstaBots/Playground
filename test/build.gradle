@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    compile group: 'org.seleniumhq.selenium', name: 'selenium-server-standalone', version: '2.53.0'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-server', version: '2.53.0'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.8.1'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: '3.8.1'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-remote-driver', version: '3.8.1'
